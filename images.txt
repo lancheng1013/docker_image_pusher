@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+photoprism/photoprism:latest-arm64
