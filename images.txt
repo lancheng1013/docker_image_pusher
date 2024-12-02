@@ -1,4 +1,1 @@
---platform linux/arm64 photoprism/photoprism
-photoprism/photoprism
-homeassistant/home-assistant
---platform linux/arm64 homeassistant/home-assistant
+ollamaorg/ollama
