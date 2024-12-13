@@ -1,1 +1,2 @@
-idootop/mi-gpt
+jc21/nginx-proxy-manager
+--platform=arm64 jc21/nginx-proxy-manager
