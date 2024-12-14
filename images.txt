@@ -1,2 +1,2 @@
-jc21/nginx-proxy-manager
---platform=arm64 jc21/nginx-proxy-manager
+traefik
+--platform=arm64 traefik
