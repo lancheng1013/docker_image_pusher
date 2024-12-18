@@ -1,2 +1,2 @@
-traefik
---platform=arm64 traefik
+gitea/gitea
+--platform=arm64 gitea/gitea
