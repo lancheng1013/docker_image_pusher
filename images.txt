@@ -1,2 +1,4 @@
-gitea/gitea
---platform=arm64 gitea/gitea
+xhofe/alist
+--platform=arm64 xhofe/alist
+xiaoyaliu/alist
+--platform=arm64 xiaoyaliu/alist
