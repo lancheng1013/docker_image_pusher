@@ -1,4 +1,1 @@
-p3terx/aria2-pro
---platform=arm64 p3terx/aria2-pro
-linuxserver/qbittorrent
---platform=arm64 linuxserver/qbittorrent
+tigerj/cups-airprint
