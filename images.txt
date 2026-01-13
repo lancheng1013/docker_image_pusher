@@ -1,1 +1,1 @@
-tigerj/cups-airprint
+--platform linux/arm64 httpd:latest
